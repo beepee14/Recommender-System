@@ -1,3 +1,3 @@
-I have implemented a basic recommender system in python. First item based recomendation is done and then user based recommendation is implemented.
-The movie lens data set has been used as a dataset.Validation has been performed on the 100k dataset.
-UI would be developed to create new data set.
+Its an intelligent trained system to provide users of a database with recommendations on movies, based on heuristics derived from their past ratings, closest neighbourhood etc. 
+I use two basic recommendation techniques over here viz. Content based and Collaborative. In addition to these I finally use the generated results and combine the two techniques into a hybrid technique of Weighted Recommender system.
+The movie lens dataset has been used.The training and testing both has been done on the 100k dataset.
